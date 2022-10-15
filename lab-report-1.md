@@ -17,7 +17,7 @@
 3. Trying some commands
 * Try running various basic commands like pwd, ls, mkdir etc.
 * Ensure that you try running these on both your machine and remotely on ieng6 after connecting via ssh.
-* Here is a sample of what the commands should look like: ![Trying commands](https://github.com/virsinghh/cse15l-lab-reports/blob/main/trying%20commands.png?raw=true)
+* Here is a sample of what the commands should look like: ![Trying commands](https://github.com/virsinghhh/cse15l-lab-reports/blob/main/Screenshot%202022-10-14%20at%2011.21.30%20PM.png)
 
 4. Moving files with scp
 * Create a sample file on your computer to move using scp
