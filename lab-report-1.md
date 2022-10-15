@@ -4,7 +4,7 @@
 
 1. Installing VScode
 * Go to the [Visual Studio code website](https://code.visualstudio.com/) and install the appropriate version for your OS.
-* Upon opening VScode, you should see a page that looks like this: 
+* Upon opening VScode, you should see a page that looks like this: ![Vscode opening page](https://github.com/virsinghh/cse15l-lab-reports/blob/main/VScode%20opening.png?raw=true)
 
 
 2. Remotely connecting
@@ -12,7 +12,7 @@
 * Next, open up a terminal in VScode and enter this command: `$ ssh cs15lfa22zz@ieng6.ucsd.edu`
 * Remember to replace the "zz" in the command with your course-specific account letters.
 * Type yes for the next message that pops up and press enter. Then, enter your password when prompted.
-* Once you do this, you should be able to see the following interaction: ![Connecting remotely](https://github.com/virsinghhh/cse15l-lab-reports/blob/main/Screenshot%202022-10-14%20at%2011.20.42%20PM.png?raw=true)
+* Once you do this, you should be able to see the following interaction: ![Connecting remotely](https://github.com/virsinghhh/cse15l-lab-reports/blob/main/Screenshot%202022-10-14%20at%2011.20.42%20PM.png)
 
 3. Trying some commands
 * Try running various basic commands like pwd, ls, mkdir etc.
